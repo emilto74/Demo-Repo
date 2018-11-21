@@ -15,6 +15,7 @@ public class LoginTest {
 	public void loginSearch()
 	{
 		System.out.println("Login test Search");
+	System.out.println("Dodana kolejna zmiana");
 }
 
 }
