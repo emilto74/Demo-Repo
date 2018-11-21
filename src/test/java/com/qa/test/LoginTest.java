@@ -10,5 +10,11 @@ public class LoginTest {
 	{
 		System.out.println("Login test class");
 	}
+	
+	@Test
+	public void loginSearch()
+	{
+		System.out.println("Login test Search");
+}
 
 }
